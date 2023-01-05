@@ -1,0 +1,21 @@
+
+>
+java:S1604"(Make this anonymous inner class a lambda(áÖÙÆ
+0
+java:S1220""Move this file to a named package.
+=
+java:S3010"'Remove this assignment of "firstLayer".(ÅÄ©‰
+;
+java:S3010" Remove this assignment of "loc".(İÊÎêûÿÿÿÿ
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(İÊÎêûÿÿÿÿ
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(½×¶¼ÿÿÿÿÿ
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(Ñò÷©úÿÿÿÿ
+L
+java:S2696"6Make the enclosing method "static" or remove this set.(§é‚
+d
+java:S3252."IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ
+<
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ

@@ -1,0 +1,76 @@
+
+`	java:S112l"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+>
+java:S1604K"(Make this anonymous inner class a lambda(Èú†
+0
+java:S1220""Move this file to a named package.
+m
+java:S3776'"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÑÜ¤Öûÿÿÿÿ
+C
+java:S3010*"(Remove this assignment of "buttonGroup".(‚Ú ›øÿÿÿÿ
+?
+java:S3010+"$Remove this assignment of "command".(İÍª˜úÿÿÿÿ
+;
+java:S3010," Remove this assignment of "map".(Í÷½ôøÿÿÿÿ
+A
+java:S3010-"&Remove this assignment of "arrayList".(Ò¥Ãïøÿÿÿÿ
+A
+java:S3010."&Remove this assignment of "actionMap".(Éúåıüÿÿÿÿ
+=
+java:S3010/"'Remove this assignment of "arrayList1".(ß¤…Ü
+7
+java:S30101"!Remove this assignment of "btn1".(Ğ÷ŸÄ
+6
+java:S30102"!Remove this assignment of "btn2".(É†İ:
+7
+java:S30103"!Remove this assignment of "btn3".(™ô¬Î
+7
+java:S30104"!Remove this assignment of "btn4".(şÃ˜ï
+7
+java:S30105"!Remove this assignment of "btn5".(õ¢Şà
+7
+java:S30106"!Remove this assignment of "btn6".(·ôñ©
+7
+java:S30107"!Remove this assignment of "btn7".(—Äœ
+<
+java:S30108"!Remove this assignment of "btn8".(ÏÃ’Àÿÿÿÿÿ
+7
+java:S30109"!Remove this assignment of "btn9".(²•Òº
+8
+java:S3010:""Remove this assignment of "btn10".(ËŒØü
+=
+java:S3010;""Remove this assignment of "btn11".(¸ø¼œúÿÿÿÿ
+=
+java:S3010<""Remove this assignment of "btn12".(ä×şàûÿÿÿÿ
+=
+java:S3010=""Remove this assignment of "btn13".(Æ´¸ÿıÿÿÿÿ
+=
+java:S3010>""Remove this assignment of "btn14".(øƒœøşÿÿÿÿ
+=
+java:S3010?""Remove this assignment of "btn15".(½ÔÒ™ıÿÿÿÿ
+8
+java:S3010@""Remove this assignment of "btn16".(µ€™Ÿ
+8
+java:S3010A""Remove this assignment of "btn17".(¯‰’Ó
+8
+java:S3010B""Remove this assignment of "btn18".(§ËÉä
+8
+java:S3010C""Remove this assignment of "btn19".(ŞÇ³ä
+7
+java:S3010D""Remove this assignment of "btn20".(ÒäÑ
+8
+java:S3010G""Remove this assignment of "array".(‡¨µÎ
+4
+java:S3010X"Remove this assignment of "k".(‹Ó‚ï
+L
+java:S2696X"6Make the enclosing method "static" or remove this set.(‹Ó‚ï
+y
+java:S2142k"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(è®ã¶øÿÿÿÿ
+
+java:S1130y"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(Ò†Æê
+Q
+java:S2696z"6Make the enclosing method "static" or remove this set.(·É«³ùÿÿÿÿ
+L
+java:S2696}"6Make the enclosing method "static" or remove this set.(õåŒ“
+P
+java:S1128":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş

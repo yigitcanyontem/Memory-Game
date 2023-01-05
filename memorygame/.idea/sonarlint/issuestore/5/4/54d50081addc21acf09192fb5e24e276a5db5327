@@ -1,0 +1,10 @@
+
+>
+java:S1604"(Make this anonymous inner class a lambda(ªıˆ
+0
+java:S1220""Move this file to a named package.
+s	java:S116"YRename this field "seconds_string" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÒûíøÿÿÿÿ
+s	java:S116"YRename this field "minutes_string" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¹ışÿÿÿÿ
+l	java:S116"WRename this field "hours_string" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×§¨›
+\
+java:S3252%"AUse static access with "javax.swing.SwingConstants" for "CENTER".(œŒŒûÿÿÿÿÿ
