@@ -28,6 +28,7 @@ public class MemoryGame extends JFrame {
                 PlayGround.temp = 0;
                 PlayGround.set.clear();
                 FirstLayer.actionMap.clear();
+                FirstLayer.k = 0;
                 ToolBar.moveUpdater();
                 new MemoryGame();
             }

@@ -24,7 +24,7 @@ public class PlayGround extends JPanel {
             }
             int i = random.nextInt(card.length);
             if (!set.contains(i)){
-                String tempCard ="/cards/" +card[i]+".jpg";
+                String tempCard = "/cards/" +card[i]+".jpg";
                 card_hold = tempCard;
                 ImageIcon player = new ImageIcon(Objects.requireNonNull(PlayGround.class.getResource(tempCard)));
                 set.add(i);
